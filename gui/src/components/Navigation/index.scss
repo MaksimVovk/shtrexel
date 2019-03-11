@@ -1,0 +1,13 @@
+@import '../../styles/colors.scss';
+
+.navigation {
+  flex-direction: column;
+  display: inline-flex;
+  position: relative;
+
+  min-width: 200px;
+  height: 100%;
+
+  background-color: $neu300;
+  transition: all 0.3s ease 0s;
+}
